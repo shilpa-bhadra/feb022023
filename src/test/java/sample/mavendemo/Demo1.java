@@ -12,5 +12,7 @@ public class Demo1 {
 	public void demo1() {
 		
 System.out.println("this is demo1");
+System.out.println("this is demo1 added by person 1");
+System.out.println("this is demo1 added by person 2");
 	}
 }
