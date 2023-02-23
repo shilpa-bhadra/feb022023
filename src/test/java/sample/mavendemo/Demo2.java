@@ -8,6 +8,8 @@ public class Demo2 {
 	public void demo2() {
 		System.out.println("this is demo2");
 System.out.println("this is demo2");
+
 System.out.println("person 1 changes in demo2");
+
 	}
 }
