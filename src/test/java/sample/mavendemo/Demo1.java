@@ -14,5 +14,6 @@ public class Demo1 {
 System.out.println("this is demo1");
 System.out.println("this is demo1 added by person 1");
 System.out.println("this is demo1 added by person 2");
+System.out.println("person 1 merge conflict demo1");
 	}
 }
