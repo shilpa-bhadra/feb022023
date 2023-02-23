@@ -8,6 +8,6 @@ public class Demo2 {
 	public void demo2() {
 		System.out.println("this is demo2");
 System.out.println("this is demo2");
-
+System.out.println("this is person 2 changes");
 	}
 }
