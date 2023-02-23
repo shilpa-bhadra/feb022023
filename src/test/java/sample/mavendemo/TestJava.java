@@ -6,9 +6,10 @@ public class TestJava {
 
 	
 	
+	
 	@Test
-	public  void testjava() {
-		System.out.println("testjava added by person 1");
+	public void testjava() {
+		System.out.println("testjava added by perosn 1");
 
 	}
 }
